@@ -2,7 +2,7 @@
 
 # Review one of my past projects
 
-For the first milestone in the process of creating your portfolio website, we need to set up a new repository and prepare it for development using best practices (e.g. linters). build the first 2 sections of the mobile website using the template we choose a predetermined designed given by Microverse.
+Review one of my past projects during my microverse admission trials and check whether the correct html semantic tags are used and git flow is correct.
 
 :heavy_check_mark: A .html File added
 :heavy_check_mark: A .css file added
